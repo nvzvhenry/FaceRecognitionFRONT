@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.2.0",
     "clarifai": "^2.9.0",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.21",
     "open": "^6.4.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
